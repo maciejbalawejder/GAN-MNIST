@@ -17,8 +17,8 @@ Check out the article with in depth explanation: Generating new sneakers using G
 <img width="565" alt="Screenshot 2021-05-23 at 09 47 48" src="https://user-images.githubusercontent.com/47450700/119326617-5e5f3400-bc82-11eb-8ca5-dcb991fda0ad.png">
 ** Generator
 <img width="567" alt="Screenshot 2021-05-23 at 09 48 19" src="https://user-images.githubusercontent.com/47450700/119326657-6ae38c80-bc82-11eb-9305-80a4e1a6ed74.png">
-------
+-------
+
 #### Results
-![img5000](https://user-images.githubusercontent.com/47450700/119326415-28ba4b00-bc82-11eb-8cf2-2cc713811eed.png)
-![Generated](https://user-images.githubusercontent.com/47450700/119326449-2fe15900-bc82-11eb-808a-88f7141f47ae.png)
-![graph](https://user-images.githubusercontent.com/47450700/119326471-353ea380-bc82-11eb-9567-e2d81fe481f4.png)
+![img5000](https://user-images.githubusercontent.com/47450700/119326745-89498800-bc82-11eb-9d40-eca8a297512a.png)
+
