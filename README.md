@@ -7,15 +7,15 @@ Check out the article with in depth explanation: Generating new sneakers using G
 
 -------
 
-#### Libraries
+### Libraries
 * Tensorflow 2.4.1
 * Matplotlib 3.2.2
 * Numpy 1.19.5
 * Tqdm 4.41.1
 ------
-#### Model
+### Model
 * Hyperparameters
-* 
+
 <img width="440" alt="Screenshot 2021-05-23 at 09 44 16" src="https://user-images.githubusercontent.com/47450700/119326524-44255600-bc82-11eb-8a98-ada58b1e2dca.png">
 
 * Discriminator
@@ -28,7 +28,7 @@ Check out the article with in depth explanation: Generating new sneakers using G
 
 ---------
 
-#### Results
+### Results
 
 ![graph](https://user-images.githubusercontent.com/47450700/119326951-c01f9e00-bc82-11eb-9359-d3c48983bb86.png)
 
