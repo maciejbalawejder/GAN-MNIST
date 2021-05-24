@@ -1,4 +1,8 @@
 # GAN
+
+![img5000](https://user-images.githubusercontent.com/47450700/119326907-b302af00-bc82-11eb-99f3-bfb448b8f7b2.png)
+
+
 -------
 Simple and straightforward Generative Adverserial Network (GAN) implementation using the Tensorflow to generate new images of sneakers.
 Check out the article with in depth explanation: Generating new sneakers using Generative Adversarial Networks(GAN)
@@ -20,5 +24,7 @@ Check out the article with in depth explanation: Generating new sneakers using G
 -------
 
 #### Results
-![img5000](https://user-images.githubusercontent.com/47450700/119326745-89498800-bc82-11eb-9d40-eca8a297512a.png)
 
+![graph](https://user-images.githubusercontent.com/47450700/119326951-c01f9e00-bc82-11eb-9359-d3c48983bb86.png)
+
+![Generated](https://user-images.githubusercontent.com/47450700/119326963-c31a8e80-bc82-11eb-9a25-e0c8a2daf44e.png)
