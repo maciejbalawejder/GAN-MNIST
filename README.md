@@ -19,13 +19,14 @@ Check out the article with in depth explanation: Generating new sneakers using G
 <img width="440" alt="Screenshot 2021-05-23 at 09 44 16" src="https://user-images.githubusercontent.com/47450700/119326524-44255600-bc82-11eb-8a98-ada58b1e2dca.png">
 
 * Discriminator
-* 
+
 <img width="565" alt="Screenshot 2021-05-23 at 09 47 48" src="https://user-images.githubusercontent.com/47450700/119326617-5e5f3400-bc82-11eb-8ca5-dcb991fda0ad.png">
 
 * Generator
-* 
+
 <img width="567" alt="Screenshot 2021-05-23 at 09 48 19" src="https://user-images.githubusercontent.com/47450700/119326657-6ae38c80-bc82-11eb-9305-80a4e1a6ed74.png">
--------
+
+---------
 
 #### Results
 
